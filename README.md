@@ -42,6 +42,8 @@
   <img src="https://komarev.com/ghpvc/?username=The-USB-Flashdrive&style=for-the-badge&color=0ea5e9" alt="Profile views" />
 </p>
 
+## A quote:
+
 <p align="center">
   <i>"AI is great."</i>
 </p>
