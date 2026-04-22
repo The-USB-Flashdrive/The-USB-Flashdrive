@@ -5,27 +5,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Coder+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+code;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=The+%7C+USB+%7C+Flashdrive;AI+is+great;You+learn+something+new+every+day" alt="Typing SVG" />
 </p>
 
 ## About Me
 
-- 🔭 I’m currently working on cool things
-- 🌱 I’m currently learning and leveling up
-- 💡 I enjoy building useful, creative, and clean projects
-- ⚡ Fun fact: I’m named like a storage device, but I run on code
+- 🔭 I’m currently working on a Godot game
+- 🌱 Godot is great
+- 💡 Unity is mid
+- ⚡ Make an html chat :)
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Code-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
