@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=The+%7C+USB+%7C+Flashdrive;AI+is+great;You+learn+something+new+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Grandview&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=The+USB+Flashdrive;AI+is+great;You+learn+something+new+every+day" alt="Typing SVG" />
 </p>
 
 ## About Me
@@ -34,28 +34,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=The-USB-Flashdrive&theme=tokyonight&hide_border=true" />
 </p>
-
-## Featured Projects
-
-> Pin your best repositories on your GitHub profile, then list them here.
-
-### Project One
-- What it does: short description
-- Tech: your stack
-- Highlights: one cool thing about it
-
-### Project Two
-- What it does: short description
-- Tech: your stack
-- Highlights: one cool thing about it
-
-### Project Three
-- What it does: short description
-- Tech: your stack
-- Highlights: one cool thing about it
-
-## Fun Extras
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=The-USB-Flashdrive&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
@@ -65,10 +43,10 @@
 </p>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"AI is great."</i>
 </p>
 
-## Connect With Me
+## Contact me:
 
 - GitHub: [@The-USB-Flashdrive](https://github.com/The-USB-Flashdrive)
 
