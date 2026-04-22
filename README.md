@@ -1,11 +1,11 @@
-# Hi there, I'm The-USB-Flashdrive :)
+# The-USB-Flashdrive :)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=220&section=header&text=The-USB-Flashdrive&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=220&section=header&text=The-USB-Flashdrive&fontSize=42&fontColor=ffa500&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Grandview&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=The+USB+Flashdrive;AI+is+great;You+learn+something+new+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Grandview&size=24&duration=2800&pause=1000&color=ffa500&center=true&vCenter=true&width=700&lines=The+USB+Flashdrive;AI+is+great;You+learn+something+new+every+day" alt="Typing SVG" />
 </p>
 
 ## About Me
